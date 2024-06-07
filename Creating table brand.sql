@@ -1,4 +1,4 @@
---Create table brand (brand_id int,name varchar(50));
+Create table brand (brand_id int,name varchar(50));
 
 --Insert INTO brand (brand_id,name)
 Values
